@@ -19,7 +19,7 @@ Langkah - langkah perancangan database online retail:
     - Product
     - Transaction
 
-2.  Menentukan atribut masing masing entity sesuai kebutuhan database
+2. Menentukan atribut masing masing entity sesuai kebutuhan database
     - Customer
         - Id: nomor id customer (int) PK
         - Nama: nama customer (varchar(50))
@@ -60,6 +60,8 @@ Langkah - langkah perancangan database online retail:
 
 3. Menentukan Relasi 
 ![ERD](https://user-images.githubusercontent.com/110627263/201666797-a1d1b4d1-6521-4649-9f8f-44e36d7b7657.png)
+
+
 
 
 
