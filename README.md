@@ -61,9 +61,10 @@ Langkah - langkah perancangan database online retail:
 3. Menentukan Relasi 
 ![ERD](https://user-images.githubusercontent.com/110627263/201666797-a1d1b4d1-6521-4649-9f8f-44e36d7b7657.png)
 
+
+
 4. ERD 
 ![Relasi](https://user-images.githubusercontent.com/110627263/201666869-d38d9d16-f041-4977-b0ec-c66847002beb.png)
-
 5. Normalisasi: Tabel yang dibuat sudah dalam bentuk normalisasi
 6. Implementasi Databasae: Silahkan cek di dalam folder DDL, DML dan Query.
 
